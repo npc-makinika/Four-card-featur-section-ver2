@@ -54,7 +54,7 @@ img {
 
 /* === Card Styling === */
 .card {
-  width: clamp(320px, 30vw, 355px);
+  width: clamp(520px, 30vw, 355px);
   min-height: 220px;
   position: relative;
   border: none;
@@ -90,7 +90,6 @@ img {
 /* === Card Borders by Type === */
 .supervisor {
   border-top: 4px solid teal;
-  margin-left: 19px;
 }
 
 .team-builder {
