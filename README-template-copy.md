@@ -58,7 +58,7 @@ HTML Structure
 - container my-5: centering the content with fixed max width and adds vertical margin (top and bottom) of about 3rem (48px).
 - row justify-content-center gx-4 gy-4: defining a flexbox row that centers its child columns horizontally and adding horizontal (gx-4) and vertical (gy-4) spacing (gaps) between them.
 
-1. Responsive Grid Layout with Bootstrap
+2. Responsive Grid Layout with Bootstrap
 ```html
 <div class="container-fluid">
   <div class="container my-5">
@@ -68,7 +68,7 @@ HTML Structure
 - container my-5: centering the content with fixed max width and adds vertical margin (top and bottom) of about 3rem (48px).
 - row justify-content-center gx-4 gy-4: defining a flexbox row that centers its child columns horizontally and adding horizontal (gx-4) and vertical (gy-4) spacing (gaps) between them.
 
-2. Card Column and Content Example
+3. Card Column and Content Example
 ```html
 <div class="col-12 col-lg-4 d-flex align-items-center">
   <div class="supervisor card">
@@ -89,7 +89,7 @@ HTML Structure
 - card-title and card-text: Title and descriptive text for the card.
 - card-icon: Positioned icon for visual enhancement.
 
-3. Vertical Stacking and Spacing with Flexbox
+4. Vertical Stacking and Spacing with Flexbox
 ```html
 <div class="col-12 col-lg-4 d-flex flex-column align-items-center justify-content-between gap-4">
   <div class="team-builder card w-100">
@@ -110,7 +110,7 @@ HTML Structure
  - team-builder card w-100: The card to fill 100% of the column’s width.
 
 
-4. Additional Card Example
+5. Additional Card Example
 ```html
 <div class="karma card w-100">
   <div class="card-body">
