@@ -271,7 +271,7 @@ CSS Highlights
 
 3. CSS Properties & Functions:
 
-- [CSS gap – MDN Docs](ttps://developer.mozilla.org/en-US/docs/Web/CSS/gap)  - Details on the gap property for spacing in CSS Grid and Flexbox layouts.
+- [CSS gap – MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/gap)  - Details on the gap property for spacing in CSS Grid and Flexbox layouts.
 
 - [CSS Gradient Generator – CSSGradient.io](https://cssgradient.io/) - Tool to visually create custom gradients and copy the CSS code.
 
