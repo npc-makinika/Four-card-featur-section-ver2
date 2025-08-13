@@ -190,7 +190,7 @@ CSS Highlights
   cursor: pointer;
 }
 ```
-->adding a shadow effect on hover.
+- adding a shadow effect on hover.
 - using smooth transition for the shadow over 0.3 seconds.
 - changing cursor to pointer to indicate interactivity.
 
