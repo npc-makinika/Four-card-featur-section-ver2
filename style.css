@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-size: 15px;
+  background: linear-gradient(266deg, #7aa9d4, #acd8d9 70%, #c5e0e1);
 }
 
 img {
@@ -63,6 +64,16 @@ img {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 16px;
 }
+
+.card:hover {
+    box-shadow: 10px 5px 5px rgb(0, 0, 0);
+    transition: box-shadow 0.3s ease-in-out;
+    cursor: pointer; /* Pointer/hand icon */
+}
+
+
+
+
 
 .text-area {
   margin-top: 32px;
